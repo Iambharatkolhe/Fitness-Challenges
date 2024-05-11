@@ -1,4 +1,12 @@
 # Fitness Challenge App Algorithm
+_A Project Based On Python Associated with SCOE,Maharasthra,India_
+## Languages Used
+
+| Python3 |
+|---------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> | 
+
+## Tools Used
 
 ## Purpose:
 The Fitness Challenge App is designed to help users track their fitness goals, perform exercises, and maintain a healthy lifestyle. The app provides users with personalized workout plans based on their goals and preferences.
